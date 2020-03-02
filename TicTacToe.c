@@ -190,13 +190,3 @@ default:{
      }
    }
  }
-
-
-  
-  
-
-
-    
-
-vishnu.c
-Displaying vs.c.
